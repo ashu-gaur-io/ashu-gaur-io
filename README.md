@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://YOUR-PORTFOLIO-LINK"><img src="./link-portfolio.svg" alt="Portfolio" width="250"></a>&nbsp;
 <a href="https://www.linkedin.com/in/ashutosh-gaur-ab422636a/"><img src="./link-linkedin.svg" alt="LinkedIn" width="250"></a>&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="./link-email.svg" alt="Email" width="250"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=ashutoshgaur414@gmail.com"><img src="./link-email.svg" alt="Email" width="250"></a>
 </p>
 
 </div>
