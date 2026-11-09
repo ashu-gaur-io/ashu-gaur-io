@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://YOUR-PORTFOLIO-LINK"><img src="./link-portfolio.svg" alt="Portfolio" width="250"></a>&nbsp;
 <a href="https://www.linkedin.com/in/ashutosh-gaur-ab422636a/"><img src="./link-linkedin.svg" alt="LinkedIn" width="250"></a>&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=ashutoshgaur414@gmail.com"><img src="./link-email.svg" alt="Email" width="250"></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="./link-email.svg" alt="Email" width="250"></a>
 </p>
 
 </div>
@@ -35,15 +35,15 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,git,github,vscode&theme=dark" alt="backend and tools">
 
-## Contributions
+## Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ashu-gaur-io&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
+<img src="https://raw.githubusercontent.com/ashu-gaur-io/ashu-gaur-io/output/snake.svg" width="100%" alt="contribution snake">
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/d98c63/ashu-gaur-io" width="85%" alt="contribution chart">
+<img src="https://streak-stats.demolab.com/?user=ashu-gaur-io&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
 
 <br><br>
 
