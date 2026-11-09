@@ -39,8 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashu-gaur-io&show_icons=true&theme=transparent&hide_border=true&title_color=d98c63&icon_color=d98c63&text_color=8b949e" height="165" alt="stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-gaur-io&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
+<img src="https://streak-stats.demolab.com/?user=ashu-gaur-io&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/d98c63/ashu-gaur-io" width="85%" alt="contribution chart">
 
 <br><br>
 
