@@ -14,7 +14,7 @@
 <text class="l" style="animation-delay:1.75s" x="40" y="153" font-family="monospace" font-size="15" fill="#e6edf3">I solve problems in C++ and build full-stack web apps.</text>
 <text class="l" style="animation-delay:2.20s" x="40" y="179" font-family="monospace" font-size="15" fill="#e6edf3">I like turning an idea into something people can actually use.</text>
 <text class="l" style="animation-delay:2.65s" x="40" y="205" font-family="monospace" font-size="15" fill="#9ec5ff">$ cat education.txt</text>
-<text class="l" style="animation-delay:3.10s" x="40" y="231" font-family="monospace" font-size="15" fill="#e8a077">YOUR COLLEGE · YOUR BRANCH · Class of 20XX</text>
+<text class="l" style="animation-delay:3.10s" x="40" y="231" font-family="monospace" font-size="15" fill="#e8a077">K.J SOMAIYA SCHOOL OF ENGINEERING · COMPS · Class of 2024-28</text>
 <text class="l" style="animation-delay:3.55s" x="40" y="257" font-family="monospace" font-size="15" fill="#9ec5ff">$ cat building.txt</text>
 <text class="l" style="animation-delay:4.00s" x="40" y="283" font-family="monospace" font-size="15" fill="#e8a077">Aromea Cafe — ordering, Razorpay payments &amp; table booking</text>
 <text class="l" style="animation-delay:4.45s" x="40" y="309" font-family="monospace" font-size="15" fill="#9ec5ff">$ echo $BASE</text>
