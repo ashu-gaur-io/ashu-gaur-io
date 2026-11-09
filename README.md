@@ -1,66 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=header" width="100%" alt="">
-  <img src="./banner.svg" alt="Profile banner" width="100%">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=D98C63&center=true&vCenter=true&width=520&lines=Solving+problems+in+C%2B%2B;Building+for+the+web;Learning+something+new+every+day" alt="typing">
-</div>
+
+<img src="./banner.svg" alt="Ashutosh Gaur" width="100%">
 
 <br>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_work-2f3e46?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-4a6fa5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-gaur-ab422636a/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-5a8f7b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshgaur414@gmail.com)
+<p align="center">
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="./link-portfolio.svg" alt="Portfolio" width="250"></a>&nbsp;
+<a href="https://www.linkedin.com/in/ashutosh-gaur-ab422636a/"><img src="./link-linkedin.svg" alt="LinkedIn" width="250"></a>&nbsp;
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="./link-email.svg" alt="Email" width="250"></a>
+</p>
 
 </div>
 
 ## About
 
-```bash
-$ whoami
-ASHUTOSH GAUR — Software Engineering student
-
-$ cat about.txt
-I solve problems in C++ and build things for the web.
-I like understanding how things work, then making them better.
-
-$ cat education.txt
-K.J SOMAIYA SCHOOL OF ENGINEERING · COMPS · Class of 2028
-
-$ cat now.txt
-Grinding DSA · building projects · looking for internships
-
-$ echo $BASE
-Mumbai, India
-```
+<div align="center">
+  <img src="./terminal.svg" alt="About me" width="100%">
+</div>
 
 ## Selected projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**nova**](https://github.com/ashu-gaur-io/nova) | Work simulator to build better | `JavaScript` |
-| [**dsa_**](https://github.com/ashu-gaur-io/dsa_) | LeetCode solutions | `C++` |
-| [**colour-change**](https://github.com/ashu-gaur-io/colour-change) | Colour-changing web experiment | `JavaScript` |
-| [**Aromea_ca**](https://github.com/ashu-gaur-io/Aromea_ca) | Add a one-line description | `Web` |
+<a href="https://github.com/ashu-gaur-io/Aromea_ca"><img src="./project-01.svg" alt="Aromea Cafe" width="100%"></a>
+<a href="https://github.com/ashu-gaur-io/nova"><img src="./project-02.svg" alt="nova" width="100%"></a>
+<a href="https://github.com/ashu-gaur-io/dsa_"><img src="./project-03.svg" alt="dsa_" width="100%"></a>
+<a href="https://github.com/ashu-gaur-io/colour-change"><img src="./project-04.svg" alt="colour-change" width="100%"></a>
 
 ## Tech stack
 
-<div align="center">
+**Languages & frontend**
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode&theme=dark" alt="stack">
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark" alt="languages">
 
-</div>
+**Backend, data & tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,git,github,vscode&theme=dark" alt="backend and tools">
 
 ## Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH GAUR&show_icons=true&theme=transparent&hide_border=true&title_color=d98c63&icon_color=d98c63&text_color=8b949e" height="165" alt="stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
+<img src="https://github-readme-stats.vercel.app/api?username=ashu-gaur-io&show_icons=true&theme=transparent&hide_border=true&title_color=d98c63&icon_color=d98c63&text_color=8b949e" height="165" alt="stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-gaur-io&theme=transparent&hide_border=true&ring=d98c63&fire=d98c63&currStreakLabel=8b949e" height="165" alt="streak">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt="">
+<i>"Small steps every day add up to something big."</i>
 
 </div>
